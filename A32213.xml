@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration by the Kings Majesty, to his subjects of the Kingdomes of Scotland, England, and Ireland</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32213</idno>
+            <idno type="STC">Wing C2959</idno>
+            <idno type="STC">ESTC R15465</idno>
+            <idno type="EEBO-CITATION">12099852</idno>
+            <idno type="OCLC">ocm 12099852</idno>
+            <idno type="VID">54073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 863:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration by the Kings Majesty, to his subjects of the Kingdomes of Scotland, England, and Ireland</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54073:1" rendition="simple:additions"/>
+            <p>A DECLARATION BY THE KINGS MAJESTY, TO HIS SUBJECTS OF THE KINGDOMES Of
+<list>
+                  <item>SCOTLAND,</item>
+                  <item>ENGLAND,</item>
+                  <item>and IRELAND.</item>
+               </list>
+            </p>
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:54073:2"/>
+            <pb n="1" facs="tcp:54073:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING</head>
+            <p>
+               <seg rend="decorInit">H</seg>IS Majeſty taking in conſideration that mer<g ref="char:EOLhyphen"/>ciful diſpenſation of di<g ref="char:EOLhyphen"/>vine providence, by w<hi rend="sup">ch</hi> he hath been recovered out of the ſnare of evil counſell, and having at<g ref="char:EOLhyphen"/>tained ſo full perſwaſion amp; confidence of the loi<g ref="char:EOLhyphen"/>alty of his people in <hi>Scotland,</hi> with whom hee hath
+<pb n="2" facs="tcp:54073:3"/>too long ſtood at a diſtance, &amp; of the righteouſnes of their cauſe, as to joyn in one Covenant with them, and to caſt himſelf and his intereſts wholly upon God, and in all matters Civil to follow the advice of his Parliament, and ſuch as ſhall be in<g ref="char:EOLhyphen"/>truſted by them, &amp; in all matters Eccleſiaſtick the advice of the Generall Aſſembly &amp; their Com<g ref="char:EOLhyphen"/>miſsioners; And being ſenſible of his duty to God, &amp; deſirous to approve himſelf to the conſciences of all his good ſubjects, and to ſtop the mouths of his and their enemies and traducers, doth inrefe<g ref="char:EOLhyphen"/>rence to his former deportments, and as to his re<g ref="char:EOLhyphen"/>ſolutions for the future, Declare as follows.</p>
+            <p>Though his Majeſty as a dutiful Son be obli<g ref="char:EOLhyphen"/>ged to honour the memory of his Royall Father, and have in eſtimation the perſon of his Mother, yet doth hee deſire to be deeply humbled and af<g ref="char:EOLhyphen"/>flicted in ſpirit before God, becauſe of his Fathers hearkening to &amp; following evil counſels, and his oppoſition to the work of Reformation and to the Solemn League &amp; Covenant, by which ſo much of the blood of the Lords People hath been ſhed in theſe Kingdomes, And for the Idolatrie of his
+<pb n="3" facs="tcp:54073:3"/>Mother; the Toleration whereof in the Kings houſe, as it was matter of great ſtumbling to all the Proteſtant Churches, ſo could it not but be a high provocation againſt him, who is a jealous God, viſiting the ſinnes of the fathers upon the Children: And albeit his Majeſty might extenuat his former carriage and actions in following of the advice and walking in the way of thoſe who are oppoſite to the Covenant, and to the work of God, and might excuſe his delaying to give ſatis<g ref="char:EOLhyphen"/>faction to the juſt &amp; neceſſary deſires of the Kirk and Kingdom of <hi>Scotland,</hi> from his education and age and evill counſel &amp; company, and from the ſtrange and inſolent proceedings of Sectaries againſt his Royal Father, and in reference to reli<g ref="char:EOLhyphen"/>gion and the Ancient Government in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> to which he hath the undoubted right of Succeſsion, Yet knowing that he hath to do with God, Hee doeth ingenuouſly acknow<g ref="char:EOLhyphen"/>ledge all his owne ſinnes and all the ſinnes of his Fathers Houſe, craving pardon, and hoping for mercie, and reconciliation, through the blood of <hi>Jeſus Chriſt.</hi> And as be doth value the conſtant
+<pb n="4" facs="tcp:54073:4"/>addreſſes, that were made by his People to the Throne of Grace on his behalf when he ſtood in oppoſition to the work of God, as a ſingular Teſti<g ref="char:EOLhyphen"/>mony of long ſuffering patience and mercy upon the Lords part, &amp; loyalty upon theirs, So doth he hope, and ſhall take it as one of the greateſt to<g ref="char:EOLhyphen"/>kens of their love and affection to him and to his Government, that they will continue in prayer and ſupplication to God for him, that the Lord who ſpared anti preſerved him to this day, notwithſtanding of all his own guiltineſſe, may be at peace with him, and give him to fear the Lord his God, and to ſerve him with a perfect heart, &amp; with a willing mind all the dayes of his life.</p>
+            <p>And his Majeſty having upon full perſwaſion of the Iuſti<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> &amp; equity of all the heads &amp; articles thereof, now ſworn &amp; ſubſcribed the national Co<g ref="char:EOLunhyphen"/>venant of the Kingdom of <hi>Scotland,</hi> &amp; the ſolemn League and Covenant of the three Kingdoms of <hi>Scotlant, England</hi> and <hi>Ireland,</hi> Doth Declare that he hath not ſworn &amp; ſubſcribed theſe Covenants, &amp; entred into the Oath of God with his people, upon any ſiniſter intention &amp; crooked deſign for
+<pb n="5" facs="tcp:54073:4"/>taining his own ends, but ſo far as humane weak<g ref="char:EOLhyphen"/>neſſe will permit in the truth and ſinceritie of his heart, and that he is firmly reſolved in the Lords ſtrength to adhere thereto, &amp; to proſecute to the utmoſt of his power all the ends thereof, in his ſta<g ref="char:EOLhyphen"/>tion and calling, really, conſtantly &amp; ſincerely all the dayes of his life: In order to which hee doth in the firſt place Profeſſe and Declare that hee wil have no enemies, but the enemies of the Cove<g ref="char:EOLhyphen"/>nant, &amp; that he wil have no friends but the friends of the Covenant. And therefore as he doth now deteſt and abhor all Popery, Superſtition &amp; Ido<g ref="char:EOLhyphen"/>latry, together with Prelacy and all errors, hereſie ſchiſm and profanenes, and reſolves not to tole<g ref="char:EOLhyphen"/>rate; much leſſe allow any of theſe in any part of his Majeſties Dominions, but to oppoſe himſelfe thereto, and to endeavour the extirpation there<g ref="char:EOLhyphen"/>of to the utmoſt of his power; So doth he as a Chriſtian Exhort, and as a King Require that all ſuch of his ſubjects who have ſtood in oppoſition to the Solemn League and Covenant and work of Reformation, upon a pretence of Kingly inter<g ref="char:EOLhyphen"/>eſt, or, any other pretext whatſoever, to lay down
+<pb n="6" facs="tcp:54073:5"/>their enmity againſt the Cauſe &amp; people of God, and to ceaſe to preferre the intereſt of man to the intereſt of God, w<hi rend="sup">ch</hi> hath been one of thoſe things that hath occaſioned many troubles &amp; calamities in theſe Kingdoms, and being inſiſted into, will be ſo far from eſtabliſhing of the Kings Throne, that it will prove an Idol of Iealouſie to provoke unto wrath him who is King of Kings and Lord of Lords: The King ſhal alwiſe eſteem them beſt ſer<g ref="char:EOLhyphen"/>vants, and moſt Loyal Subiects, who ſerve him &amp; ſeek his greatneſſe in a right line of ſubordinati<g ref="char:EOLhyphen"/>on-unto God, giving unto God the things that are Gods, and unto <hi>Ceſar</hi> the things that are <hi>Ceſares,</hi> And reſolveth not to love, or countenance any, who have ſo little Conſcience and piety, as to follow his intreſts with a preiudice to the Goſpell and the Kingdome of <hi>Jeſus Chriſt,</hi> which he looks not upon as a dutie, but as flatterie, and driving of ſelf deſigns, under a pretence of maintaining Roy<g ref="char:EOLhyphen"/>all Authority and greatneſſe.</p>
+            <p n="2">II. His Majeſty being convinced in conſcience, of the exceeding great ſinfulneſſe and unlawful<g ref="char:EOLhyphen"/>neſſe of that Treatie and peace made with the blo<g ref="char:EOLhyphen"/>dy
+<pb n="7" facs="tcp:54073:5"/>
+               <hi>Irish</hi> Rebels, who treacherouſly ſhed the blood of ſo many of his faithfull and Loyall Subiects in <hi>Ireland,</hi> and of allowing unto them the liberty of the Popiſh Religion; for the which he doth from his heart deſire to be deeply humbled before the Lord; And Iikewiſe conſiderering how many breaches have been upon their part, Doth De<g ref="char:EOLhyphen"/>clare the ſame to be voyd, And that his Ma<g ref="char:EOLhyphen"/>ieſty is abſolved therefrom; being truly ſorry that he ſhould have ſought unto ſo unlawfull help for reſtoring of him to his Throne, and reſolving for the time to come, rather to chooſe affliction then ſin.</p>
+            <p n="3">III. As his Majeſty did in the late Treaty with his people in this kingdom, agree to recall &amp; annull all Commmiſsions againſt any of his Sub<g ref="char:EOLhyphen"/>iects, who did adhere to the Covenant, and Mo<g ref="char:EOLhyphen"/>narchicall Government in any of his kingdomes; ſo doth he now Declare, that by commiſsionating of ſome perſons by Sea, againſt the people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> he did not intend dammage, or iniurie to his oppreſt and harmleſſe Subiects in that kingdom, who follow their trade of Merchandize in
+<pb n="8" facs="tcp:54073:6"/>their lawfull callings, but only the oppoſing and ſuppreſsing of thoſe who had uſurped the go<g ref="char:EOLhyphen"/>vernment, and not only barre him from his juſt right, but alſo exerciſe an arbitrary power over his people, in thoſe things which concern their perſons, conſciences and eſtates: And as ſince his coming into <hi>Scotland,</hi> he hath given no Commiſ<g ref="char:EOLhyphen"/>ſions againſt any of his Subiects in <hi>England</hi> or <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> ſo he doth hereby Aſſure and Declare, that he will give none to their preiudice or dammage, and whatever ſhall be the wrongs of theſe uſur<g ref="char:EOLhyphen"/>pers, that he will bee ſo farre from avenging theſe upon any who are free thereof, by interrup<g ref="char:EOLhyphen"/>ting and ſtoping the liberty of trade and Mer<g ref="char:EOLhyphen"/>chandize or otherwiſe, that he will ſeek their good, &amp; to the utmoſt imploy his Royall power, that they may be protected and defended againſt the uniuſt violence of all men whatſoever. And albeit his Maieſty deſireth to conſtruct wel of the intentions of thoſe (in reference to his Maieſty) who have been active in Counſell or Arms a<g ref="char:EOLhyphen"/>againſt the Covenant; Yet being convinced that it doth conduce for the honour of God, the good of
+<pb n="9" facs="tcp:54073:6"/>his cauſe, &amp; his own honour and happineſs, and for the peace &amp; ſafety of theſe Kingdoms, that ſuch be not im<g ref="char:EOLhyphen"/>ployed in places of power and truſt, He doth Declare, that he will not imploy, nor give Commiſsions to any ſuch, until they have not only taken or renewed the Co<g ref="char:EOLhyphen"/>venant, but alſo have given ſufficient evidences of their integrity, carriage, and affection to the work of Refor<g ref="char:EOLhyphen"/>mation, and ſhall be declared capable of truſt by the Parl. of either kingdom <hi>reſpective:</hi> And his Majeſty upon the ſame grounds, doth hereby Recall all Com<g ref="char:EOLhyphen"/>miſsions given to any ſuch perſons; conceiving all ſuch perſons will ſo much tender a good underſtanding be<g ref="char:EOLhyphen"/>twixt him &amp; his Subjects, and the ſetling and preſer<g ref="char:EOLhyphen"/>ving a f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rm peace in theſe kingdoms, that they wil not grudg nor repine at his Majeſties reſolutions and pro<g ref="char:EOLhyphen"/>ceedings sherein, much leſs upon diſcontent act any thing in a divided way unto the raiſing of new troubles; eſpe<g ref="char:EOLhyphen"/>cially ſince upon their pious &amp; good deportment, there is a regreſs left unto them in manner above expreſſed.</p>
+            <p>And as his Majeſtie hath given ſatisfaction to the juſt and neceſſary deſires of the Kirk and King<g ref="char:EOLhyphen"/>dom of Scotland, So doth he hereby Aſſure &amp; Declare that he is no leſſe willing and deſirous to give ſatis<g ref="char:EOLhyphen"/>faction
+<pb n="10" facs="tcp:54073:7"/>to the juſt and neceſſary deſires of his good ſubjects in England and Ireland; and in token there<g ref="char:EOLhyphen"/>of, if the houſes of Parliament of England ſit<g ref="char:EOLhyphen"/>ting in freedome ſhal think fit to preſent unto him, the propoſitions of peace agreed upon by both Kingdomes, he wil not only accord to the ſame, and ſuch alterations there anent as the Houſes of Parliament in regard of the conſtitution of affaires, and the good of his Ma<g ref="char:EOLhyphen"/>jeſtie and his Kingdomes ſhall judge neceſſarie, but do what is further neceſſarie, for proſecuting the ends of the Solemn League and Covenant, eſpecial<g ref="char:EOLhyphen"/>ly in thoſe things which concerne the Reformati<g ref="char:EOLhyphen"/>on of the Church of England in Doctrine, worſhip, diſcipline, and Government; that not onely the di<g ref="char:EOLhyphen"/>rectary of worſhip, the Confeſſion of Faith and Cate<g ref="char:EOLhyphen"/>chiſme, but alſo the propoſitions and directory for Church Government accorded upon by the Synod of Divines at Weſtminſter may be ſetled, and that the Church of England may enjoy the full libertie and freedome of all Aſſemblies &amp; power of Kirk cenſures, and of all the ordinances of Jeſus Chriſt according to the rule of his own word, and that whatſoever is commanded by the God of Heaven, may be diligently
+<pb n="11" facs="tcp:54073:7"/>done for the houſe of the God of Heaven. And what ever heretofore hath been the ſuggeſtions of ſome to him, to render his Matie jealous of his Parl. &amp; of the ſervants of God; yet as he hath declared, that in <hi>Scotland</hi> he will hearken to their Counſell, &amp; follow their advice in thoſe things that concern that Kingdom and Kirk; So doth he alſo Declare his firm reſolution to manage the goverment of the kingdom of <hi>England,</hi> by the advice of his Parl. conſisting of an Houſe of Lords, &amp; of an Houſe of Com. there, and in thoſe things that concern Religion to pre<g ref="char:EOLhyphen"/>fer the counſels of the Miniſters of the Goſpel, to all other Counſels whatſoever; And that al the world may ſee how much he tenders the ſafety of his people, and how preci<g ref="char:EOLhyphen"/>ous their blood is in his ſight, &amp; how deſirous he is to re<g ref="char:EOLhyphen"/>cover his Crown &amp; Government in <hi>England</hi> by peacea<g ref="char:EOLhyphen"/>ble means, as he doth esteem the ſervice of thoſe who firſt engaged in the Covenant, &amp; have ſince that time faith<g ref="char:EOLhyphen"/>fully followed the ends thereof, to be duty to God, &amp; Loyalty to him; So is he willing in regard of others, who have been involved in theſe late Commotions in <hi>England</hi> againſt Religion and Government, to paſs an Act of Oblivion, Excepting only ſome few in that Nation, who have bin chief obſtructers of the work of Reformation, and chief
+<pb n="12" facs="tcp:54073:8"/>Authours of the change of the Government, and of the murther of his Royall Father; Provided, that theſe who are to have the benefit of his Act lay down Arms, and return to the obedience of their lawfull Soveraign. The Committee of Eſtates of the Kingdom, and General Aſsembly of the Kirk of
+<hi>Scotland,</hi> having declared ſo fully in what concerns the Sectaries; and the preſent de<g ref="char:EOLhyphen"/>ſigns, reſolutions, and acting of their Army againſt the kingdom of
+<hi>Scotland,</hi> and the ſame Committee and Aſ<g ref="char:EOLhyphen"/>ſembly having ſufficiently layd open publick dangers &amp; duties both upon the right hand, and upon the left, It is not needful for his Majeſty to adde any thing thereunto, except that in thoſe things he doth Commend &amp; Approve them, &amp; that he reſolves to live &amp; die with them &amp; his loyal ſubjects, in proſecution of the ends of the Covenant.</p>
+            <p>And whereas that prevailing party in <hi>Eng.</hi> after all their ſtrange uſurpations, and inſolent actings in that land, do not only keep his Maieſty from the government of that kingdom by force of Arms, but alſo have now in<g ref="char:EOLhyphen"/>vaded the kingdom of<hi>Scotland,</hi> who have deſerved bet<g ref="char:EOLhyphen"/>ter things at their hands, &amp; againſt whom they have no juſt quarrel, His Ma<hi rend="sup">tie</hi> doth therefore deſire and expect that all his good ſubiects in <hi>Eng.</hi> who are &amp; reſolve to be
+<pb facs="tcp:54073:8"/>faithful to God, and to their King according to the Cove<g ref="char:EOLhyphen"/>nant, wil lay hold upon ſuch an opportunity, &amp; uſe their utmoſt endeavours to promove the Covenant and all the ends thereof, and to recover and reeſtabliſh the ancient government of the kingdom of <hi>Engl.</hi> (under which for many generations it did flouriſh in peace and plenty at home, and in reputation abroad) and priviledges of the Par. and native and juſt liberty of the people. His Ma<g ref="char:EOLhyphen"/>jeſtie deſires to aſſure himſelf that there doth remain in theſe ſo much confidence of the duty to Religion, their King &amp; country, &amp; ſo many ſparkles of the ancient
+<hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> valour, which ſhined ſo eminently in their noble an<g ref="char:EOLhyphen"/>ceſtors, as will put them on to beſtir themſelves for brea<g ref="char:EOLhyphen"/>king the yoke of thoſe mens oppreſsions from off their necks. Shall men of conſcience &amp; honor ſet religion, liber<g ref="char:EOLhyphen"/>ties and government at ſo lowa rate, as not rather to un<g ref="char:EOLhyphen"/>dergo any hazard, before they be thus deprived of them? wil not all generous men count any death more tolerable then to live in ſervitude all their dayes? and wil not po<g ref="char:EOLhyphen"/>ſterty blame thoſe who dare attempt nothing for them<g ref="char:EOLhyphen"/>ſelves, &amp; for their children, in ſo good a cauſe, in ſuch an exigent? Whereas if they gather themſelves, &amp; take cou<g ref="char:EOLhyphen"/>rage, putting on a reſolution anſwer able to ſo noble and juſt an enterpriſe, they ſhall honour God, and gain them<g ref="char:EOLhyphen"/>ſelves
+<pb facs="tcp:54073:9" rendition="simple:additions"/>the reputation of pious men, worthy patriots, and loyall ſubjects, and be called the repairers of the breach, by the preſent and ſucceeding generations; and they may certainly promiſe to the<g ref="char:cmbAbbrStroke">̄</g>ſelvs a bleſsing from God upon ſo juſt &amp; honourable undertaking for the Lord and for his cauſe, for their own liberties, their native King &amp; coun<g ref="char:EOLhyphen"/>try, and the unvaluable good and happines of the poſteri<g ref="char:EOLhyphen"/>ty. Whatever hath formerly bin his Majeſties guiltines before God, and the bad ſucceſſe that theſe have had who owned his affairs, whilſt he ſtood in oppoſition to the work of God, yet the ſtate of the queſtion being now altered, &amp; his Majeſty having obtained mercy to be on Gods ſide, &amp; to prefer Gods intereſt before his own, he hopes that the Lord wil be gracious and countenances his own cauſe, in the hands of weak and ſinfull inſtruments againſt all enemies whatſoever. This is all that can be ſaid by his Ma<hi rend="sup">tie</hi> at preſent to theſe in <hi>England</hi> and <hi>Ireland</hi> at ſuch a diſtance: And as they ſhal acquit themſelves at this time in the active diſcharge of their neceſsary duties ſo ſhal they be accepted before God, endeared to his Ma<hi rend="sup">ty</hi> and their names had in ramembrance throughout the World.</p>
+            <closer>
+               <dateline>Given at our Court at <hi>Dumfermline</hi> 
+                  <date>the 16. day of <hi>Auguſt,</hi> 1650. And in the ſecond year of our Reign.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:54073:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
